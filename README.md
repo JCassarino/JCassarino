@@ -83,9 +83,9 @@ Here are some of the personal projects I've been working on. You can find more d
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Joseph's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JCassarino&show_icons=true&theme=radical&count_private=true" alt="Joseph's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8" alt="Joseph's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCassarino&layout=compact&theme=radical&langs_count=8" alt="Joseph's Top Languages" />
   </p>
 
 <!-- <p align="center">
