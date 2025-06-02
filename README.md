@@ -1,21 +1,20 @@
 # Hi there, I'm Joseph Cassarino 👋
 
-I'm a Computer Science student at the University of Maryland Baltimore County (UMBC) with a strong passion for **software development** and **game design**. I enjoy tackling new challenges, learning new technologies, and bringing creative ideas to life through code. I'm currently honing my skills and looking for opportunities to contribute to innovative projects and grow as a developer.
+I'm a Computer Science student at the University of Maryland Baltimore County (UMBC) with a strong passion for **software development** and **game design**. I enjoy tackling new challenges, learning new technologies, and bringing my ideas to life through code. I'm currently honing my skills and looking for opportunities to contribute to innovative projects and grow as a developer.
 
 ---
 
 ## 🚀 What I'm Currently Working On & Learning
 
-* 🎮 Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**, exploring a fusion of magic and futuristic technology.
-* 🕹️ Completed **Survive the Semester**: A fun arcade-style game made with **Processing**, where you play as UMBC's mascot, True Grit!
-* 🐍 Planning to dive into the **Destiny 2 API** with **Python** to build an interactive application.
-* 🧠 Continuously expanding my knowledge in computer science through my coursework and personal projects.
+* Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**, exploring a fusion of magic and futuristic technology.
+* Planning to dive into the **Destiny 2 API** with **Python** to build an interactive application.
+* Continuously expanding my knowledge in computer science through my coursework and personal projects.
 
 ---
 
 ## 🛠️ My Skills & Technologies
 
-Here's a snapshot of the languages, tools, and technologies I'm proficient with or actively learning:
+Languages, tools, and technologies I'm proficient with or actively learning:
 
 * **Languages:**
     * Java
