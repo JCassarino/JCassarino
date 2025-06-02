@@ -51,8 +51,8 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 * **University of Maryland Baltimore County (UMBC)**
     * Major: Computer Science
-    * Expected Graduation: [May 2027]
-    * Relevant Coursework: 
+    * Expected Graduation: May 2027
+    * Relevant Coursework: Computer Science I & II | Discrete Structures | Computational Thinking & Design | Linear Algebra | Calculus I & II | Physics I & II |
 
 ---
 
@@ -72,7 +72,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [www.linkedin.com/in/joseph-cassarino]
+* **LinkedIn:** www.linkedin.com/in/joseph-cassarino
 * **Email:** jmerino812@gmail.com
 
 ---
