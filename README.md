@@ -58,8 +58,6 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 ## 🌟 My Projects Showcase
 
-Here are some of the personal projects I've been working on. You can find more details in their respective repositories!
-
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)*
     * A 2D action roguelike blending magic and futuristic tech. (Self-taught C# & Unity)
     * `Tech Stack: Unity, C#`
