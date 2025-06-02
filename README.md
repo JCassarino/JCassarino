@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ## 🚀 What I'm Currently Working On & Learning
 
-* Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**, exploring a fusion of magic and futuristic technology.
+* Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**.
 * Planning to dive into the **Destiny 2 API** with **Python** to build an interactive application.
 * Continuously expanding my knowledge in computer science through my coursework and personal projects.
 
