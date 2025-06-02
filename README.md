@@ -1,5 +1,3 @@
-# Hi there, I'm Joseph Cassarino 👋
-
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC) with a strong passion for **software development** and **game design**. I enjoy tackling new challenges, learning new technologies, and bringing my ideas to life through code. I'm currently honing my skills and looking for opportunities to contribute to innovative projects and grow as a developer.
 
 ---
