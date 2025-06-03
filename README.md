@@ -3,7 +3,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ---
 
-## 🚀 What I'm Currently Working On & Learning
+## What I'm Currently Working On & Learning:
 
 * Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**.
 * Planning to dive into the **Destiny 2 API** with **Python** to build an interactive application.
@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ---
 
-## 🛠️ My Skills & Technologies
+## My Skills & Technologies:
 
 Languages, tools, and technologies I'm proficient with or actively learning:
 
@@ -37,7 +37,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 ---
 
-## 🌟 My Projects Showcase
+## Projects Showcase
 
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)**
     * A 2D action roguelike blending magic and futuristic tech. (Self-taught C# & Unity)
@@ -57,14 +57,14 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/joseph-cassarino
 * **Email:** jmerino812@gmail.com
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JCassarino&show_icons=true&theme=radical&count_private=true" alt="Joseph's GitHub Stats" />
