@@ -37,25 +37,6 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 ---
 
-## 💼 Professional Experience
-
-* **IT Intern | Enterprise Operations @ Lockheed Martin** (June 2024 - Present)
-    * Developed an internal support application for the ATMP (Army Training Aids, Devices, Simulators and Simulations Maintenance Program).
-    * Resolved 105+ cybersecurity vulnerabilities and verified/corrected 1,100+ device records.
-    * Assisted in IT infrastructure maintenance and created training for Virtual Desktop Infrastructure (VDI) implementation.
-    * Utilized Cisco Meraki for network performance monitoring.
-
----
-
-## 🎓 Education
-
-* **University of Maryland Baltimore County (UMBC)**
-    * Major: Computer Science
-    * Expected Graduation: May 2027
-    * Relevant Coursework: Computer Science I & II | Discrete Structures | Computational Thinking & Design |
-
----
-
 ## 🌟 My Projects Showcase
 
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)**
