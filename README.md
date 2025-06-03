@@ -1,4 +1,4 @@
-## Welcome to my Github!👋
+## Welcome to my Github!
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC) with a strong passion for **software development** and **game design**. I enjoy tackling new challenges, learning new technologies, and bringing my ideas to life through code. I'm currently honing my skills and looking for opportunities to contribute to innovative projects and grow as a developer.
 
 ---
@@ -45,6 +45,12 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 * **[Survive the Semester (Processing Game)](https://github.com/JCassarino/Survive-The-Semester)**
     * Arcade-style game where you play as UMBC's mascot, True Grit, navigating college challenges.
     * `Tech Stack: Processing (Java)`
+* **[Python Frogger](https://github.com/JCassarino/Python-Frogger)**
+    * A terminal-based implementation of the classic Frogger game, featuring level loading from custom `.frog` files.
+    * `Tech Stack: Python`
+* **[Model Internet](https://github.com/JCassarino/Little-Model-Internet)**
+    * A command-line Python application simulating basic internet server creation, connections, and network diagnostics like `ping` and `traceroute`.
+    * `Tech Stack: Python`
 * **Destiny 2 API Application (Python - In Planning)**
     * An upcoming project to interact with the Destiny 2 API.
     * `Tech Stack: Python, Destiny 2 API`
