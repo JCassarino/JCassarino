@@ -51,9 +51,9 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 * **[Model Internet](https://github.com/JCassarino/Little-Model-Internet)**
     * A command-line Python application simulating basic internet server creation, connections, and network diagnostics like `ping` and `traceroute`.
     * `Tech Stack: Python`
-* **Destiny 2 API Application (Python - In Planning)**
-    * An upcoming project to interact with the Destiny 2 API.
-    * `Tech Stack: Python, Destiny 2 API`
+* **Destiny 2 Loadout Analyzer**
+    * An in development project to interact with the Destiny 2 API.
+    * `Tech Stack: Python, Bungie.net API`
 
 ---
 
