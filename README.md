@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ## What I'm Currently Working On & Learning:
 
 * Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**.
-* Planning to dive into the **Destiny 2 API** with **Python** to build an interactive application.
+* Developing **Destiny 2 Loadout Analyzer**: A character loadout analyzation tool built with **Python**, leveraging the **Bungie.net API**.
 * Continuously expanding my knowledge in computer science through my coursework and personal projects.
 
 ---
@@ -51,7 +51,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 * **[Model Internet](https://github.com/JCassarino/Little-Model-Internet)**
     * A command-line Python application simulating basic internet server creation, connections, and network diagnostics like `ping` and `traceroute`.
     * `Tech Stack: Python`
-* **Destiny 2 Loadout Analyzer**
+* **[Destiny 2 Loadout Analyzer](https://github.com/JCassarino/Destiny-2-Loadout-Analyzer)**
     * An in development project to interact with the Destiny 2 API.
     * `Tech Stack: Python, Bungie.net API`
 
