@@ -40,7 +40,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 ## Projects Showcase
 
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)**
-    * A, in-development 2D action roguelike blending magic and futuristic tech. (Self-taught C# & Unity)
+    * An in-development 2D action roguelike blending magic and futuristic tech. (Self-taught C# & Unity)
     * `Tech Stack: Unity, C#`
 * **[Survive the Semester (Processing Game)](https://github.com/JCassarino/Survive-The-Semester)**
     * Arcade-style game where you play as UMBC's mascot, True Grit, navigating college challenges.
