@@ -40,7 +40,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 ## Projects Showcase
 
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)**
-    * A 2D action roguelike blending magic and futuristic tech. (Self-taught C# & Unity)
+    * A, in-development 2D action roguelike blending magic and futuristic tech. (Self-taught C# & Unity)
     * `Tech Stack: Unity, C#`
 * **[Survive the Semester (Processing Game)](https://github.com/JCassarino/Survive-The-Semester)**
     * Arcade-style game where you play as UMBC's mascot, True Grit, navigating college challenges.
@@ -52,7 +52,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
     * A command-line Python application simulating basic internet server creation, connections, and network diagnostics like `ping` and `traceroute`.
     * `Tech Stack: Python`
 * **[Destiny 2 Loadout Analyzer](https://github.com/JCassarino/Destiny-2-Loadout-Analyzer)**
-    * An in development project to interact with the Destiny 2 API.
+    * An in-development project to analyze Destiny 2 player's character builds.
     * `Tech Stack: Python, Bungie.net API`
 
 ---
