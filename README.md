@@ -39,7 +39,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 
 ## Current Projects
 * **[Conflux](https://github.com/JCassarino/Conflux)**
-    * An application to help Destiny 2 players navigate their journey, analyze their characters, and make informed decisions on gear and activities.
+    * An application to help Destiny 2 players navigate their in-game experience, analyze their characters, and make informed decisions on gear and activities.
     * `Tech Stack: Python, Bungie.net API`
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)**
     * A 2D action roguelike blending magic and futuristic tech.
