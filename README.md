@@ -5,8 +5,8 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ## What I'm Currently Working On & Learning:
 
+* Developing **Conflux**: An intelligent web app for Destiny 2 Guardians, providing **personalized insights, activity recommendations, and in-depth build optimization**, all built with **Python** and the **Bungie.net API**.
 * Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**.
-* Developing **Destiny 2 Loadout Analyzer**: A character loadout analyzation tool built with **Python**, leveraging the **Bungie.net API**.
 * Continuously expanding my knowledge in computer science through my coursework and personal projects.
 
 ---
@@ -38,13 +38,12 @@ Languages, tools, and technologies I'm proficient with or actively learning:
 ---
 
 ## Current Projects
-
+* **[Conflux](https://github.com/JCassarino/Conflux)**
+    * An application to help Destiny 2 players navigate their journey, analyze their characters, and make informed decisions on gear and activities.
+    * `Tech Stack: Python, Bungie.net API`
 * **[Vivid Vendetta (Unity Game)](https://github.com/JCassarino/Vivid-Vendetta)**
     * A 2D action roguelike blending magic and futuristic tech.
     * `Tech Stack: Unity, C#`
-* **[Destiny 2 Loadout Analyzer](https://github.com/JCassarino/Destiny-2-Loadout-Analyzer)**
-    * An application used to analyze and improve Destiny 2 player's character builds.
-    * `Tech Stack: Python, Bungie.net API`
  
 ## Completed Projects
    
