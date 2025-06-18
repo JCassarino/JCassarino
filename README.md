@@ -5,8 +5,8 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ## What I'm Currently Working On & Learning:
 
-* Developing **[Conflux](https://github.com/JCassarino/Conflux)**: An intelligent web app for Destiny 2 players, providing **personalized insights, activity recommendations, and in-depth build optimization**, all built with **Python** and the **Bungie.net API**.
-* Developing **[Vivid Vendetta](https://github.com/JCassarino/Vivid-Vendetta)**: A 2D action roguelike built with **Unity** and **C#**.
+* Developing **Conflux**: An intelligent web app for Destiny 2 players, providing **personalized insights, activity recommendations, and in-depth build optimization**, all built with **Python** and the **Bungie.net API**.
+* Developing **Vivid Vendetta**: A 2D action roguelike built with **Unity** and **C#**.
 * Continuously expanding my knowledge in computer science through my coursework and personal projects.
 
 ---
