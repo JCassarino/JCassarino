@@ -20,6 +20,7 @@ Languages, tools, and technologies I'm proficient with or actively learning:
     * Python
     * C++
     * C#
+    * SQL
 * **Game Development:**
     * Unity Engine
     * Processing
